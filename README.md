@@ -4,8 +4,8 @@
  *  If running from the command line, out/production/fieldaware is the root folder
  *  Run command is java com.fieldaware.Main log.txt
  
- *  NB - Normally I would not hard code the path as seen in Main.java with variable 
-String hardPathFallback
+ *  NB - Normally I would not hard code the path as seen in **Main.java** with variable 
+**String hardPathFallback**
     but I thought if you want to run from IntelliJ then just put the path to your log file here
  
  *  Main runs the log processor on the log file then allows us to query the processed file through the CLI
