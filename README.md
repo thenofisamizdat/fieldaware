@@ -8,6 +8,7 @@
 **String hardPathFallback**
     but I thought if you want to run from IntelliJ then just put the path to your log file here
  
+ * To set up in IntelliJ, clone repo to folder then create new Project from existing sources and point to local cloned repo and follow steps.
  *  Main runs the log processor on the log file then allows us to query the processed file through the CLI
  
  * Tests in folder test/
